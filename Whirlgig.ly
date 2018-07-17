@@ -83,8 +83,6 @@ ppMusicThree = \relative c {
         g2 b4  
         c2. }
         }
-  
-}
 
 
 
